@@ -1,1 +1,1 @@
-# Frontend
+# Connect 4 game
